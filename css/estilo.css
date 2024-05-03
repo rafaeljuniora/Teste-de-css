@@ -1,0 +1,51 @@
+p{
+    color: blue;
+    font-size: 20px;
+}
+
+p.cor-um{
+    color: red;
+}
+p.cor-dois{
+    color: purple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+#idUm{
+    color: aqua;
+}
+.div1{
+    background-color: bisque;
+    width: 50%;
+    height: 50px;
+}
+.div2{
+    background-color:beige;
+    width: 50%;
+    height: 50px;
+}
+
+
+    #cabecalho{
+        background-color: #cccccc;
+        width: 600px;
+        padding: 40px 2%;
+        color: white;
+        text-align: center;
+    }
+    #corpo{
+        background-color:red;
+        width:600px;
+        padding:10px 2%
+    }
+    #rodape{
+        width: 600px;
+        padding:10px 2%;
+        background-color: #888888;
+        color: white;
+        text-align:center;
+    }
+    .sessao_conteudo{
+        text-align:center;
+        width:100%;
+        background-color:green;
+    }
